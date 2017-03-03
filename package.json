@@ -1,0 +1,11 @@
+{
+  "name": "redux-graphql-react",
+  "version": "1.0.0",
+  "description": "going through the reactql ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Choi <nick.k.choi@berkeley.edu>",
+  "license": "ISC"
+}
